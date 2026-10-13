@@ -9,3 +9,6 @@ Lastly a list that updates automatically when a new item is added.
 
 # More additional information about the app
 The Christoffel's Menu App is a mobile application built for a restaurant owner and a chef who wants to move away from handwritten paper based menus. The app is designed for a non technical user, so every screen is kept simple, with large readable text, clearly labelled fields and obvious buttons. 
+
+# Link for my Github:
+https://github.com/Onaleronapule07/Christoffel-s-App
